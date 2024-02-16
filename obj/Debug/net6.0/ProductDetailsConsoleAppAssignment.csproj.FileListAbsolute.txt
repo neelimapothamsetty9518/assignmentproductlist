@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\bin\Debug\net6.0\ProductDetailsConsoleAppAssignment.exe
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\bin\Debug\net6.0\ProductDetailsConsoleAppAssignment.deps.json
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\bin\Debug\net6.0\ProductDetailsConsoleAppAssignment.runtimeconfig.json
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\bin\Debug\net6.0\ProductDetailsConsoleAppAssignment.dll
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\bin\Debug\net6.0\ProductDetailsConsoleAppAssignment.pdb
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\obj\Debug\net6.0\ProductDetailsConsoleAppAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\obj\Debug\net6.0\ProductDetailsConsoleAppAssignment.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\obj\Debug\net6.0\ProductDetailsConsoleAppAssignment.AssemblyInfo.cs
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\obj\Debug\net6.0\ProductDetailsConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\obj\Debug\net6.0\ProductDetailsConsoleAppAssignment.dll
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\obj\Debug\net6.0\refint\ProductDetailsConsoleAppAssignment.dll
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\obj\Debug\net6.0\ProductDetailsConsoleAppAssignment.pdb
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\obj\Debug\net6.0\ProductDetailsConsoleAppAssignment.genruntimeconfig.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\ProductDetailsConsoleAppAssignment\ProductDetailsConsoleAppAssignment\obj\Debug\net6.0\ref\ProductDetailsConsoleAppAssignment.dll
